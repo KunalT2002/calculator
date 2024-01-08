@@ -1,0 +1,77 @@
+.calculator{
+    margin: auto;
+    box-shadow: inset 2px 2px white;
+    border-radius: 5px;
+    background-color: rgb(191, 212, 212);
+    width: 200px;
+    height: 335px;
+    border: 2px solid black;
+}
+
+input.screen{
+    box-shadow: inset 2px 1px rgb(168, 166, 166);
+    margin: 10px;
+    margin-top: 25px;
+    padding: 7px;
+    
+}
+
+.num{
+    margin: 7px;
+}
+.key{
+    box-shadow: 2px 1px rgb(53, 49, 49);
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+    height: 40px;
+    width: 39px;
+    margin: 2px;
+}
+
+.bk{
+    box-shadow: 2px 1px rgb(51, 53, 49);
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+    height: 40px;
+    width: 39px;
+    margin: 2px; 
+    background-color: rgb(113, 156, 217);
+}
+
+.opt{
+    box-shadow: 2px 1px rgb(53, 49, 49);
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+    border-radius: 5px ;
+    height: 40px;
+    width: 39px;
+    margin: 2px;
+}
+
+.eql{
+    box-shadow: 2px 1px rgb(53, 49, 49);
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+    border-radius: 5px ;
+    height: 40px;
+    width: 39px;
+    margin: 2px;
+}
+
+.clr{
+    box-shadow: 2px 1px rgb(53, 49, 49);
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    height: 40px;
+    width: 39px;
+    margin: 2px;
+}
